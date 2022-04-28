@@ -6,7 +6,10 @@ class Calculadora:
         return x - y
 
     def multiplicacao(x, y):
-        return x * y
+        if(x == 0 or y == 0):
+            return 0
+        else:
+            return x * y
 
     def divisao(x, y):
         if y == 0:
