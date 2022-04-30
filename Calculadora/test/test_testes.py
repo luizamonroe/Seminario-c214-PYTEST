@@ -1,6 +1,7 @@
 import Calculadora.calculadora as calc
 import pytest
 
+
 class Testes():
     def test_soma(self):
         assert calc.Calculadora.soma(1, 2) == 3
@@ -17,3 +18,6 @@ class Testes():
 
     def test_divisao(self):
         assert calc.Calculadora.divisao(10, 2) == 5
+
+    def test_divisaoZero(self):
+        assert calc.Calculadora.divisao(3, 0) == 0
