@@ -14,7 +14,8 @@ class Calculadora:
     def divisao(x, y):
         if y == 0:
             print ("Divisão por Zero, indefinição!!")
-            return 0
+            dz = True
+            return dz
         else:
             return x / y
 

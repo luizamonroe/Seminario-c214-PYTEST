@@ -20,4 +20,4 @@ class Testes():
         assert calc.Calculadora.divisao(10, 2) == 5
 
     def test_divisaoZero(self):
-        assert calc.Calculadora.divisao(3, 0) == 0
+        assert calc.Calculadora.divisao(10, 0) == True
