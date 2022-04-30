@@ -19,8 +19,8 @@ Normalmente, o PIP é instalado automaticamente se você:
 - Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
 ⁉️ Vale ressaltar que, se você estiver usando IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a>, esta IDE já possue o PIP integrado e também uma fácil instalação do <a href="https://www.jetbrains.com/help/pycharm/pytest.html">Pytest</a>, direto em suas configurações de projeto. O <a href ="https://code.visualstudio.com/docs/python/testing">VSCode</a> também tem sua extensão com o Python e seu guia de instalação. 
 
-Vamos para os step a ser seguidos 👇
-💿 Windows S.O
+<p>Vamos para os step a ser seguidos 👇</p>
+<p>💿 Windows S.O </p>
 ⚠️Antes de tudo, você pode usar o CMD do Windows ou até mesmo o <a href="https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/">Git</a> Bash para isso ⚠️
 Step 1: Rode o seguinte comando para baixar o arquivo "get-pip.py":
 ```bash
@@ -58,6 +58,6 @@ Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de te
 
 - Com o terminal ainda aberto, navegue até a pasta onde deseja salvar o projeto e cole o seguinte comando:
 ```bash
-git clone 
+git clone https://github.com/luizamonroe/Seminario-c214-PYTEST
 ```
 
