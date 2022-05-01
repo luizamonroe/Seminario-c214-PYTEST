@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, world!💻 </h1>
+<h1 align="center"> Hello, world Dev!💻 </h1>
 
 
 ## Equipe:
@@ -13,7 +13,7 @@ Na realização deste seminário foi utilizada a ferramenta **Pytest**, visando 
 ### Instalação das Ferramentas necessárias 💻⚙️
 Para saber mais sobre a ferramenta <a href="https://pypi.org/project/pip/"> Pytest </a>, você pode acessar a documentação e poder esclarecer quaisquer duvidas que surgirem. Mas os step principais para instalação a seguir:
 
-### Pré - Requisito 
+### Pré - Requisito 🎯
 Para instalar o Pytest é preciso ter também em sua máquina o <a href="https://pypi.org/project/pip/">PIP</a>, gerenciador de pacotes do Python.<br>
 Normalmente, o PIP é instalado automaticamente se você:
 - Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
@@ -22,14 +22,19 @@ Normalmente, o PIP é instalado automaticamente se você:
 ## <p>Vamos para os step a ser seguidos 👇</p>
 <p>💿 Windows S.O </p>
 <p>⚠️Antes de tudo, você pode usar o CMD do Windows ou até mesmo o <a href="https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/">Git</a> Bash para isso ⚠️</p>
+
 <p>Step 1: Rode o seguinte comando para baixar o arquivo "get-pip.py": </p>
+
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```
+
 <p>Step 2: Instalando PIP no windows: </p>
+
 ```bash
 python(ou py) get-pip.py
 ```
+
 <p>Step 3: Adicione PIP nas suas <a href="https://www.noticiastecnicas.com/variaveis-de-ambiente-do-sistema-e-do-usuario-no-windows-explicadas/">variáveis de ambiente</a> do Windows, para poder rodar o comando de qualquer lugar. </p>
 
 ### Versão e atualização
@@ -61,3 +66,20 @@ Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de te
 git clone https://github.com/luizamonroe/Seminario-c214-PYTEST
 ```
 <p> **Pronto, tudo configurado! Agora é só escolher o seu IDE que preferir.** </p>
+
+### Testes ☑️✖️
+## Para realização dos testes, 3 comandos podem ser feitos:
+- 1º (Rodar todos os arquivos de teste):
+```bash
+pytest
+```
+
+- 2º (Rodar um arquivo de teste específico):
+```bash
+pytest nome_do_arquivo.py
+```
+
+- 3º (Rodar os testes, até encontrar um erro):
+```bash
+pytest -x ou pytest nome_do_arquivo.py -x
+```
