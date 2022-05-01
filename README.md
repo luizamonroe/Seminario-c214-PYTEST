@@ -8,7 +8,7 @@
 ## Sobre o Projeto:
 Projeto desenvolvido para o seminário da matéria Engenharia de software(C214) ministrada pelo professor Chris Lima no primeiro semestre de 2022.
 
-Na realização deste seminário foi utilizada a ferramenta **Pytest**, visando a criação de testes unitários, e para isso foi criada uma calculadora eh python.
+Na realização deste seminário foi utilizada a ferramenta **Pytest**, visando a criação de testes unitários, e para isso foi criada uma calculadora em python.
 
 ### Instalação das Ferramentas necessárias 💻⚙️
 Para saber mais sobre a ferramenta <a href="https://pypi.org/project/pip/"> Pytest </a>, você pode acessar a documentação e poder esclarecer quaisquer duvidas que surgirem. Mas os step principais para instalação a seguir:
@@ -22,15 +22,15 @@ Normalmente, o PIP é instalado automaticamente se você:
 ## <p>Vamos para os step a ser seguidos 👇</p>
 <p>💿 Windows S.O </p>
 <p>⚠️Antes de tudo, você pode usar o CMD do Windows ou até mesmo o <a href="https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/">Git</a> Bash para isso ⚠️</p>
-Step 1: Rode o seguinte comando para baixar o arquivo "get-pip.py":
+<p>Step 1: Rode o seguinte comando para baixar o arquivo "get-pip.py": </p>
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```
-- Step 2: Instalando PIP no windows:
+<p>Step 2: Instalando PIP no windows: </p>
 ```bash
 python(ou py) get-pip.py
 ```
-- 3º Adicione PIP nas suas <a href="https://www.noticiastecnicas.com/variaveis-de-ambiente-do-sistema-e-do-usuario-no-windows-explicadas/">variáveis de ambiente</a> do Windows, para poder rodar o comando de qualquer lugar.
+<p>Step 3: Adicione PIP nas suas <a href="https://www.noticiastecnicas.com/variaveis-de-ambiente-do-sistema-e-do-usuario-no-windows-explicadas/">variáveis de ambiente</a> do Windows, para poder rodar o comando de qualquer lugar. </p>
 
 ### Versão e atualização
 - Para verificar se instalou corretamente e saber sua versão, rode o seguinte comando:
