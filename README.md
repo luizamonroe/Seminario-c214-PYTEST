@@ -58,7 +58,7 @@ pip install -U pytest
 ```bash
 pytest --version
 ```
-### Clonando o projeto
+### Clonando o projeto 🔀
 Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de testes unitários.
 
 - Com o terminal ainda aberto, navegue até a pasta onde deseja salvar o projeto e cole o seguinte comando:
