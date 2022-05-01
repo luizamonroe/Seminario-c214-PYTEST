@@ -4,16 +4,19 @@
 
 - [O Projeto](#sobre-o-projeto)
 - [Equipe](#equipe)
-- [Instalação](#instalao-das-ferramentas-necessrias-)
-   - [Pré-requisitos](#pr---requisitos-)
-   - [Windows](#p-windows-so-p)
+- [Instalação](#instalação-das-ferramentas-necessárias-%EF%B8%8F)
+   - [Pré-requisitos](#pré---requisitos-)
+   - [Windows](#-windows-so-)
    - [Linux](#-linux-so)
    - [MacOS](#-macos)
-- [Passo a passo](#pvamos-para-os-step-a-ser-seguidos-p)
-   - [Clone](#clonando-o-projeto)
-   - [Testes](#testes-)
+- [Passo a passo](#bora-pro-passo-a-passo-)
+   - [Clonando o projeto](#clonando-o-projeto-)
+   - [Testes](#testes-%EF%B8%8F%EF%B8%8F)
 - [Arquivos](#arquivos-open_file_folder)
-- 
+- [Calculadora](#calculadora)
+- [Testes](#testes)
+
+
 ## Sobre o Projeto
 Projeto desenvolvido para o seminário da matéria Engenharia de software(C214) ministrada pelo professor Chris Lima no primeiro semestre de 2022.
 
@@ -92,7 +95,7 @@ Você pode seguir o step do <a href ="https://python.org.br/instalacao-mac/">pyt
 # Pytest
 Os passos a serem seguidos para os <a href="https://www.geeksforgeeks.org/how-to-install-pytest-for-python3-on-macos/"> testes </a>
 
-## <p>Vamos para os step a ser seguidos 👇</p>
+## <p>Bora pro passo a passo! 👇</p>
 
 ### Clonando o projeto 🔀
 Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de testes unitários.
