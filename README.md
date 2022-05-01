@@ -116,7 +116,6 @@ Os passos a serem seguidos para os <a href="https://www.geeksforgeeks.org/how-to
 <!--te-->
 
 ## Calculadora
-![image](C:\Users\luiza\Documents\Seminario-c214-PYTEST\calculadora.png)
-
+![image](calculadora.png)
 ## Testes
-![image](C:\Users\luiza\Documents\Seminario-c214-PYTEST\testes.png)
+![image](testes.png)
