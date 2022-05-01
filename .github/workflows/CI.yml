@@ -9,8 +9,9 @@ defaults:
     working-directory: ./Calculadora/
    
 jobs:
-  Build:
+  build:
     runs-on: ubuntu-latest
+    
     steps:
  
      - uses: actions/setup-python@v3
