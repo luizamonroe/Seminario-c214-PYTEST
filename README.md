@@ -103,3 +103,15 @@ Você pode seguir o step do <a href ="https://python.org.br/instalacao-mac/">pyt
 
 # Pytest
 Os passos a serem seguidos para os <a href="https://www.geeksforgeeks.org/how-to-install-pytest-for-python3-on-macos/"> testes </a>
+
+
+## Arquivos :open_file_folder:
+<!--ts-->
+  * :file_folder: calculadora
+    * :file_folder: test
+        * :page_facing_up: __init__.py
+        * :page_facing_up: [test_testes.py](#teste-testes)
+     * :page_facing_up: __init__.py
+     * :page_facing_up: [calculadora.py](#calculadora)
+<!--te-->
+
