@@ -1,14 +1,14 @@
 <h1 align="center"> Hello, world Dev!💻 </h1>
 
+## Sobre o Projeto:
+Projeto desenvolvido para o seminário da matéria Engenharia de software(C214) ministrada pelo professor Chris Lima no primeiro semestre de 2022.
+
+Na realização deste seminário foi utilizada a ferramenta **Pytest**, visando a criação de testes unitários, e para isso foi criada uma calculadora em python.
 
 ## Equipe:
     * 👧 Luiza Monroe
     * 👦 Alvaro Breno 
 
-## Sobre o Projeto:
-Projeto desenvolvido para o seminário da matéria Engenharia de software(C214) ministrada pelo professor Chris Lima no primeiro semestre de 2022.
-
-Na realização deste seminário foi utilizada a ferramenta **Pytest**, visando a criação de testes unitários, e para isso foi criada uma calculadora em python.
 
 ### Instalação das Ferramentas necessárias 💻⚙️
 Para saber mais sobre a ferramenta <a href="https://pypi.org/project/pip/"> Pytest </a>, você pode acessar a documentação e poder esclarecer quaisquer duvidas que surgirem. Mas os step principais para instalação a seguir:
@@ -97,7 +97,7 @@ Step 2:
 sudo apt-get install python-pytest
 ```
 
-Para executar os testes é da mesma forma do -[Windows](#-windos-S.O)
+Para executar os testes é da mesma forma do [Windows](#-Windows-S.O)
 # 💿 MacOS
 Você pode seguir o step do <a href ="https://python.org.br/instalacao-mac/">python.org </a> para instalação do Python em MacOS
 
