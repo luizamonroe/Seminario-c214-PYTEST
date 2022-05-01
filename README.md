@@ -20,7 +20,7 @@ Normalmente, o PIP é instalado automaticamente se você:
 ⁉️ Vale ressaltar que, se você estiver usando IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a>, esta IDE já possue o PIP integrado e também uma fácil instalação do <a href="https://www.jetbrains.com/help/pycharm/pytest.html">Pytest</a>, direto em suas configurações de projeto. O <a href ="https://code.visualstudio.com/docs/python/testing">VSCode</a> também tem sua extensão com o Python e seu guia de instalação. 
 
 ## <p>Vamos para os step a ser seguidos 👇</p>
-<p>💿 Windows S.O </p>
+# <p>💿 Windows S.O </p>
 <p>⚠️Antes de tudo, você pode usar o CMD do Windows ou até mesmo o <a href="https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/">Git</a> Bash para isso ⚠️</p>
 
 <p>Step 1: Rode o seguinte comando para baixar o arquivo "get-pip.py": </p>
@@ -83,3 +83,22 @@ pytest nome_do_arquivo.py
 ```bash
 pytest -x ou pytest nome_do_arquivo.py -x
 ```
+# 💿 Linux S.O 
+Você pode seguir o step do <a href ="https://python.org.br/instalacao-linux/">python.org </a> para instalação do Python em Linux
+
+# Pytest
+Step 1: 
+```bash
+sudo apt-get update
+```
+
+Step 2:
+```bash
+sudo apt-get install python-pytest
+```
+
+# 💿 MacOS
+Você pode seguir o step do <a href ="https://python.org.br/instalacao-mac/">python.org </a> para instalação do Python em MacOS
+
+#Pytest
+Os passos a serem seguidos para os <a href="https://www.geeksforgeeks.org/how-to-install-pytest-for-python3-on-macos/"> testes </a>
