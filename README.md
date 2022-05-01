@@ -97,7 +97,7 @@ Step 2:
 sudo apt-get install python-pytest
 ```
 
-Para executar os testes é da mesma forma do [Windows] (#windos-S.O)
+Para executar os testes é da mesma forma do -[Windows](#-windos-S.O)
 # 💿 MacOS
 Você pode seguir o step do <a href ="https://python.org.br/instalacao-mac/">python.org </a> para instalação do Python em MacOS
 
