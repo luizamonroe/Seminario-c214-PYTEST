@@ -14,10 +14,10 @@ on:
 
 defaults:
   run:
-    working-directory: ./Calculadora/test/test_testes.py
+    working-directory: ./Calculadora/
    
 jobs:
-  deploy:
+  Build:
     runs-on: ubuntu-latest
     steps:
      - name: Set up Python
