@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, world Dev!💻 </h1>
-
+[![CI Python](https://github.com/luizamonroe/Seminario-c214-PYTEST/actions/workflows/CIpython.yml/badge.svg)](https://github.com/luizamonroe/Seminario-c214-PYTEST/actions/workflows/CIpython.yml)
 ## Menu
 
 - [Sobre o Projeto](#sobre-o-projeto)
