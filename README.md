@@ -1,6 +1,7 @@
 <h1 align="center"> Hello, world Dev!💻 </h1>
 
 [![CI Python](https://github.com/luizamonroe/Seminario-c214-PYTEST/actions/workflows/CIpython.yml/badge.svg)](https://github.com/luizamonroe/Seminario-c214-PYTEST/actions/workflows/CIpython.yml)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
 ## Menu
 
